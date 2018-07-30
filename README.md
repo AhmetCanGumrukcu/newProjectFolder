@@ -1,1 +1,1 @@
-# New project stater kit with gulp
+# New project starter kit with gulp
