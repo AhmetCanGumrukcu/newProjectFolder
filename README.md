@@ -1,5 +1,9 @@
 # New project starter kit with gulp
 
-## npm install
+```
+npm install
+```
 
-## gulp watch
+```
+gulp watch
+```
