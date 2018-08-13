@@ -9,9 +9,11 @@ npm install
 gulp watch
 ```
 
-### ıngredients
+### ingredients
 
 * Scss
 * Css min
 * Js concat
 * Pug HTML template
+* babel
+* es6
